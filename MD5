@@ -1,0 +1,15 @@
+956b4596e31929e2231f586328e99ab9 *DESCRIPTION
+898896146b6de07eacfd832753aa1385 *NAMESPACE
+57c68cb84dc35124ab1bbe1933001186 *NEWS.md
+1537545e8192d233e3ab3dc2d5d81986 *R/fetch_shopifyads.R
+06140b81fe298af5748c7c04c649ee57 *R/my_shopifyads_data.R
+4f3006ff10bf4d17121de2d4d6642dac *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+57f00232637c3aa8b23a7b462350ce9f *data/my_shopifyads_data.RData
+9c236ba11c9cbe1ec0796ca99fe2c602 *inst/doc/tutorial.R
+2338861e14e2157c3642afc1fb4d0317 *inst/doc/tutorial.Rmd
+5efb0d6303241ac14845a7e0a75072f0 *inst/doc/tutorial.html
+2060db143d1a8520468b056e0f40ad00 *man/fetch_shopifyads.Rd
+3ec017c644f309191241727fcfea2374 *man/my_shopifyads_data.Rd
+57f00232637c3aa8b23a7b462350ce9f *vignettes/my_shopifyads_data.RData
+2338861e14e2157c3642afc1fb4d0317 *vignettes/tutorial.Rmd
